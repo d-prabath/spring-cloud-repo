@@ -11,6 +11,7 @@
   <url>http://maven.apache.org</url>
 
   <modules>
+    <module>configserver</module>
     <module>notification-service</module>
     <module>registry</module>
     <module>gateway</module>
