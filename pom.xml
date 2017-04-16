@@ -12,6 +12,7 @@
 
   <modules>
     <module>notification-service</module>
+    <module>registry</module>
   </modules>
 
   <properties>
